@@ -1,0 +1,120 @@
+.home {
+    width: 1440px;
+    height: 916px;
+    margin: 0px auto;
+  }
+  .home .navbar {
+    display: flex;
+    padding: 50px 109px;
+  }
+  .home .navbar a {
+    text-decoration: none;
+  }
+  .home .navbar a b {
+    color: rgb(10, 145, 255);
+    font-family: sans-serif;
+    font-size: 40px;
+  }
+  .home .navbar .pages {
+    margin-left: 800px;
+  }
+  .home .navbar .pages a {
+    margin-left: 40px;
+    text-decoration: none;
+    font-family: sans-serif;
+    color: black;
+  }
+  .home .navbar .pages a:hover {
+    color: rgb(10, 145, 255);
+  }
+
+  .home .section2 {
+    width: 100%;
+    height: 400px;
+    background-color: #cee9fb;
+  }
+  .home .section2 h1 {
+    padding-top: 100px;
+    font-family: sans-serif;
+    color: #4A99D3;
+  }
+  .home .section2 .all {
+    display: flex;
+  }
+  .home .section2 .all .num2 {
+    margin-left: 14%;
+  }
+  .home .section2 .all .num2 img {
+    cursor: pointer;
+  }
+  .home .section2 .all .num2 h4 {
+    font-family: sans-serif;
+  }
+  .home .section2 .all .num2 p {
+    font-family: sans-serif;
+  }
+
+
+
+
+
+
+  .home footer {
+    width: 100%;
+    height: 290px;
+    background-color: #4A99D3;
+    display: flex;
+    justify-content: space-around;
+  }
+  .home footer .num1 h1 {
+    color: white;
+    font-family: sans-serif;
+    cursor: pointer;
+  }
+  .home footer .num1 h1 .a {
+    color: white;
+  }
+  .home footer .num1 h3 {
+    margin-top: 40px;
+    color: white;
+    font-family: sans-serif;
+  }
+  .home footer .num1 h4 {
+    margin-top: 40px;
+    color: white;
+    font-family: sans-serif;
+  }
+  .home footer .num1 a {
+    text-decoration: none;
+    color: white;
+    opacity: 0.6;
+    font-family: sans-serif;
+  }
+  .home .line {
+    display: flex;
+    margin-top: 1px;
+    width: 100%;
+    height: 50px;
+    background-color: #4A99D3;
+  }
+  .home .line span {
+    margin-top: 10px;
+    margin-left: 109px;
+    color: white;
+    font-family: sans-serif;
+  }
+  .home .line .icons {
+    margin-left: 800px;
+  }
+  .home .line .icons a {
+    text-decoration: none;
+    color: white;
+  }
+  .home .line .icons .icon {
+    width: 30px;
+    height: 25px;
+    margin-left: 10px;
+    margin-top: 10px;
+  }
+
+
